@@ -1,3 +1,9 @@
+## v0.1.0 - $(date +%Y-%m-%d)
+
+First release of SketchAcoustics Beta.
+
+---
+
 # Changelog
 
 All notable changes to SketchAcoustics will be documented here.
