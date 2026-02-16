@@ -1,22 +1,27 @@
-## v0.1.0 - $(date +%Y-%m-%d)
+# Changelog
 
-First release of SketchAcoustics Beta.
+For the most up-to-date release notes, see the [**Releases page**](https://github.com/vladimirasm/SketchAcoustics-Beta/releases).
 
 ---
 
-# Changelog
+## v0.1.0 - 2026-02-14
 
-All notable changes to SketchAcoustics will be documented here.
+First public beta release of SketchAcoustics.
 
-## [Unreleased]
+### Features
+- ✅ **First Reflections Calculator** - Visualize sound ray paths and reflections
+- ✅ **Listener Placement** - Mark objects as listeners for targeted analysis
+- ✅ **Dispersion Controls** - Configurable horizontal/vertical dispersion angles
+- ✅ **Ray Filtering** - Filter rays to only those hitting listeners
+- ✅ **Multiple Reflection Orders** - Calculate up to 5th-order reflections
+- ✅ **License Management** - Beta key activation via Polar.sh
 
-### Planned Features
+---
+
+## Planned Features
+
 - 🚧 Room Mode Analysis (axial, tangential, oblique modes)
 - 🚧 RT60 Calculator with frequency bands
 - 🚧 Material Libraries with absorption coefficients
 - 🚧 SPL heatmaps and coverage analysis
 - 🚧 Data export (CSV, reports)
-
----
-
-_Beta releases will be documented here as they are published._
