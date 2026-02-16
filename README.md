@@ -26,7 +26,7 @@ Professional acoustic analysis tools for SketchUp.
 
 ### Step 2: Download Extension
 
-1. Go to [**Releases**](https://github.com/vladimirasm/SketchAcoustics-Beta/releases)
+1. Go to [**Releases**](https://github.com/vovanukas/SketchAcoustics-Beta/releases/)
 2. Download the latest `SketchAcoustics-*.rbz` file
 
 ### Step 3: Install in SketchUp
