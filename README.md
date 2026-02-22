@@ -13,7 +13,7 @@ Professional acoustic analysis tools for SketchUp.
 - ✅ **Advanced Dispersion Controls** - Configurable horizontal/vertical dispersion angles
 - ✅ **Ray Filtering** - Filter rays to only those hitting listeners
 - ✅ **Multiple Reflection Orders** - Calculate up to nth-order reflections
-- 🚧 **Room Mode Analysis** - Coming soon in next beta
+- ✅ **Room Mode Analysis** - Coming soon in next beta
 - 🚧 **RT60 Calculator** - Coming soon
 
 ---
