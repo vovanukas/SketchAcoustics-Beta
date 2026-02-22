@@ -1,0 +1,22 @@
+{
+  "commit": "",
+  "generated": "2026-02-22T12:19:19.977Z",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "",
+        "hash": "348572674",
+        "path": "outstatic/content/_singletons/test.md"
+      },
+      "author": {
+        "name": "vladimiras",
+        "picture": "https://avatars.githubusercontent.com/u/31879544?v=4"
+      },
+      "collection": "_singletons",
+      "publishedAt": "2026-02-22T12:25:01.291Z",
+      "slug": "test",
+      "status": "published",
+      "title": "Test"
+    }
+  ]
+}
