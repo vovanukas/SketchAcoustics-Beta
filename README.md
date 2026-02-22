@@ -22,7 +22,7 @@ Professional acoustic analysis tools for SketchUp.
 
 ### Step 1: Get Beta Access
 
-[**Request beta access here**](https://tally.so/r/WOrx8J) - We'll email you a license key within 24-48 hours.
+[**Request beta access here**](https://tally.so/r/WOrx8J) - I'll email you a license key within 24-48 hours.
 
 ### Step 2: Download Extension
 
@@ -61,6 +61,7 @@ Calculate and visualize how sound reflects in your 3D model:
 4. Click **OK** to calculate
 
 **Visual Legend:**
+NOTE: I use tags to manage reflections orders, so you will only see visualisation if you enable "Color by Tag" in the "Tags" window. Learn more about tags [here](https://help.sketchup.com/en/sketchup/controlling-visibility-tags). 
 - 🔴 Red lines = Direct sound (0th order)
 - 🟣 Purple-ish lines = 1st reflections
 - 🔵 Blue lines = Higher-order reflections
@@ -76,6 +77,18 @@ Mark objects in your model as listeners (audience positions, microphones, etc.):
 
 **Removing Listeners:**
 - Plugins → SketchAcoustics → Delete Listeners
+OR
+1. Right-click an object you marked as listener
+2. Select **SketchAcoustics** → **✓Listener**
+
+### Room Mode Calculator
+
+Analyse the acoustic resonance modes of a room using wave-based finite element simulation.
+
+1. Click the **Room Modes** button in the SketchAcoustics toolbar
+2. Select all faces that form your room boundary (walls, floor, ceiling)
+3. Run analysis with configured analysis settings
+4. Results appear in the dialog and a 3D pressure visualization overlays your model
 
 ---
 
@@ -89,7 +102,7 @@ Mark objects in your model as listeners (audience positions, microphones, etc.):
 
 ## 💬 Feedback & Support
 
-We'd love to hear from you!
+I'd love to hear from you!
 
 - 💡 **Share feedback & request features**: [acoustics.fider.io](https://acoustics.fider.io/)
 - 🐛 **Report bugs**: [acoustics.fider.io](https://acoustics.fider.io/)
