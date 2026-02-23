@@ -85,6 +85,8 @@ OR
 
 Analyse the acoustic resonance modes of a room using wave-based finite element simulation.
 
+[Room Mode Calculator Usage Guide.webm](https://github.com/user-attachments/assets/42a6de9e-ffef-4600-8acd-dce1fc00c17b)
+
 1. Click the **Room Modes** button in the SketchAcoustics toolbar
 2. Select all faces that form your room boundary (walls, floor, ceiling)
 3. Run analysis with configured analysis settings
