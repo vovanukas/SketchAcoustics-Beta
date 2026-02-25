@@ -22,7 +22,7 @@ Professional acoustic analysis tools for SketchUp.
 
 ### Step 1: Get Beta Access
 
-[**Request beta access here**](https://tally.so/r/WOrx8J) - I'll email you a license key within 24-48 hours.
+[**Request beta access here**](https://tally.so/r/WOrx8J) - I'll email you a license key
 
 ### Step 2: Download Extension
 
