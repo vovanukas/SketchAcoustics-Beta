@@ -13,8 +13,8 @@ Professional acoustic analysis tools for SketchUp.
 - ✅ **Advanced Dispersion Controls** - Configurable horizontal/vertical dispersion angles
 - ✅ **Ray Filtering** - Filter rays to only those hitting listeners
 - ✅ **Multiple Reflection Orders** - Calculate up to nth-order reflections
-- ✅ **Room Mode Analysis** - Coming soon in next beta
-- 🚧 **RT60 Calculator** - Coming soon
+- ✅ **Room Mode Analysis** - Select walls and run a room mode simulation
+- ✅ **RT60 Calculator** - Assign Materials and Run a Room Acoustics Simulation
 
 ---
 
@@ -103,6 +103,20 @@ https://github.com/user-attachments/assets/580cd794-1732-41ea-959e-ff7a38f6d09c
 3. Create custom materials or select from existing ones
 4. Click back (<-) and select a material to start painting faces
 5. To see which faces you have already painted, you can click the overlay button to show material colours on model
+
+### Room Acoustics Simulation
+
+Simulate how sound travels, reflects, and decays inside a room using particle tracing across octave bands.
+
+https://github.com/user-attachments/assets/84b2112e-0a51-4215-a022-1b534a58a1fd
+
+1. Assign materials to all room surfaces using the Material Assignment Tool before running the simulation - absorption and diffusion coefficients are used directly in the calculation
+2. Use Section Planes instead of hiding geometry to expose interior surfaces — hidden faces are excluded from the simulation
+3. Click the Room Acoustics Simulator button in the SketchAcoustics toolbar
+4. Click to place one or more sound sources (emitters) inside the room, then press Enter to confirm
+5. Click to place one or more receivers (listeners) inside the room, then press Enter to start the simulation
+6. Once complete, results appear as charts showing reverberation time (RT30), early decay time (EDT), clarity (C50/C80), and other ISO 3382 metrics per octave band
+7. To visualise sound propagation, run the Sound Billiard — an animated ray visualisation showing particle paths through the room
 
 ---
 
