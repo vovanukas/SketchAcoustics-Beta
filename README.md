@@ -92,6 +92,18 @@ Analyse the acoustic resonance modes of a room using wave-based finite element s
 3. Run analysis with configured analysis settings
 4. Results appear in the dialog and a 3D pressure visualization overlays your model
 
+### Material Assignment Tool
+
+Assign materials to surfaces to use the absorption/diffusion coefficients for Acoustic Analysis
+
+https://github.com/user-attachments/assets/580cd794-1732-41ea-959e-ff7a38f6d09c
+
+1. Click on the **Manage Acoustic Materials** button in the SketchAcoustics toolbar
+2. Click ... to add materials into your scene/materials palette
+3. Create custom materials or select from existing ones
+4. Click back (<-) and select a material to start painting faces
+5. To see which faces you have already painted, you can click the overlay button to show material colours on model
+
 ---
 
 ## 🔧 Requirements
